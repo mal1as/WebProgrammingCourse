@@ -1,5 +1,4 @@
 # WebProgramming-Lab1
-Example: https://se.ifmo.ru/~s285572/web-lab1/
 ### Variant 2205
 
 #### Task
